@@ -1,0 +1,11 @@
+C:\Users\akjef\workspace\csharp\exercises\carLot\obj\Debug\netcoreapp2.1\carLot.csprojAssemblyReference.cache
+C:\Users\akjef\workspace\csharp\exercises\carLot\obj\Debug\netcoreapp2.1\carLot.csproj.CoreCompileInputs.cache
+C:\Users\akjef\workspace\csharp\exercises\carLot\obj\Debug\netcoreapp2.1\carLot.AssemblyInfoInputs.cache
+C:\Users\akjef\workspace\csharp\exercises\carLot\obj\Debug\netcoreapp2.1\carLot.AssemblyInfo.cs
+C:\Users\akjef\workspace\csharp\exercises\carLot\bin\Debug\netcoreapp2.1\carLot.deps.json
+C:\Users\akjef\workspace\csharp\exercises\carLot\bin\Debug\netcoreapp2.1\carLot.runtimeconfig.json
+C:\Users\akjef\workspace\csharp\exercises\carLot\bin\Debug\netcoreapp2.1\carLot.runtimeconfig.dev.json
+C:\Users\akjef\workspace\csharp\exercises\carLot\bin\Debug\netcoreapp2.1\carLot.dll
+C:\Users\akjef\workspace\csharp\exercises\carLot\bin\Debug\netcoreapp2.1\carLot.pdb
+C:\Users\akjef\workspace\csharp\exercises\carLot\obj\Debug\netcoreapp2.1\carLot.dll
+C:\Users\akjef\workspace\csharp\exercises\carLot\obj\Debug\netcoreapp2.1\carLot.pdb
